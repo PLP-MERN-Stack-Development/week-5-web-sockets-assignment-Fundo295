@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Runtime files
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
